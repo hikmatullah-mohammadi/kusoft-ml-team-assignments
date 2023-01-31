@@ -4,4 +4,4 @@ This repository is created to host assignments/exercises of Ku-soft ML internshi
 
 Authors:
   - [Hikmatullah Mohammadi](https://github.com/hikmatullah-mohammadi)
-  - [Zamira Sharifi]()
+  - [Zamira Sharifi](https://github.com/Zamirahsharifi)
